@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xl="http://www.w3.org/1999/xlink" xmlns:dc="http://purl.org/dc/elements/1.1/" version="1.1" viewBox="34 149 1363 963" width="1363" height="963">
+  <defs>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-1 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M 8 0 L 0 -3 L 0 3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+    <marker orient="auto" overflow="visible" markerUnits="strokeWidth" id="FilledArrow_Marker_2" stroke-linejoin="miter" stroke-miterlimit="10" viewBox="-9 -4 10 8" markerWidth="10" markerHeight="8" color="black">
+      <g>
+        <path d="M -8 0 L 0 3 L 0 -3 Z" fill="currentColor" stroke="currentColor" stroke-width="1"/>
+      </g>
+    </marker>
+  </defs>
+  <g id="Canvas_1" stroke-opacity="1" fill="none" fill-opacity="1" stroke-dasharray="none" stroke="none">
+    <title>Canvas 1</title>
+    <rect fill="white" x="34" y="149" width="1363" height="963"/>
+    <g id="Canvas_1_Layer_1">
+      <title>Layer 1</title>
+      <g id="Graphic_3">
+        <rect x="985" y="319" width="411.5" height="481.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_2">
+        <rect x="171.5" y="441.5" width="561.5" height="360.5" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_4">
+        <text transform="translate(276 467)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="8242296e-19" y="16">Management cluster</tspan>
+        </text>
+      </g>
+      <g id="Graphic_5">
+        <text transform="translate(1113.5 269.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="0" y="16">Workload cluster</tspan>
+        </text>
+      </g>
+      <g id="Graphic_6">
+        <title>Amazon Elastic Kubernetes Service</title>
+        <rect x="1149.085" y="848" width="83.33" height="75" id="path"/>
+        <clipPath id="clip_path">
+          <use xl:href="#path"/>
+        </clipPath>
+        <g clip-path="url(#clip_path)">
+          <image xl:href="image1.pdf" width="75" height="75" transform="matrix(1.1110667 0 0 1 1149.085 848)"/>
+        </g>
+      </g>
+      <g id="Graphic_10">
+        <title>pod</title>
+        <rect x="1264.5" y="517.5" width="50" height="50" id="path_2"/>
+        <clipPath id="clip_path_2">
+          <use xl:href="#path_2"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_2)">
+          <image xl:href="image3.png" width="256" height="256" transform="translate(1264.5 517.5) scale(.1953125)"/>
+        </g>
+      </g>
+      <g id="Graphic_11">
+        <rect x="274.5" y="218.5" width="126.99875" height="102" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(279.5 260.276)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="21.315374" y="15">Infra Repo</tspan>
+        </text>
+      </g>
+      <g id="Graphic_14">
+        <rect x="464" y="218.5" width="126.99875" height="102" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(469 251.052)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="18.347374" y="15">Application </tspan>
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="39.387374" y="33.448">Repo</tspan>
+        </text>
+      </g>
+      <g id="Graphic_15">
+        <title>github</title>
+        <rect x="303.5" y="149.5" width="52" height="48" id="path_3"/>
+        <clipPath id="clip_path_3">
+          <use xl:href="#path_3"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_3)">
+          <image xl:href="image4.png" width="128" height="128" transform="matrix(.40625 0 0 .375 303.5 149.5)"/>
+        </g>
+      </g>
+      <g id="Graphic_16">
+        <title>github</title>
+        <rect x="493" y="149.5" width="52" height="48" id="path_4"/>
+        <clipPath id="clip_path_4">
+          <use xl:href="#path_4"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_4)">
+          <image xl:href="image4.png" width="128" height="128" transform="matrix(.40625 0 0 .375 493 149.5)"/>
+        </g>
+      </g>
+      <g id="Graphic_17">
+        <title>jenkins</title>
+        <rect x="303.5" y="705.5" width="50" height="50" id="path_5"/>
+        <clipPath id="clip_path_5">
+          <use xl:href="#path_5"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_5)">
+          <image xl:href="image5.png" width="226" height="312" transform="matrix(.22123894 0 0 .16025641 303.5 705.5)"/>
+        </g>
+      </g>
+      <g id="Graphic_19">
+        <rect x="576" y="694.5" width="75.93168" height="81.5" id="path_6"/>
+        <clipPath id="clip_path_6">
+          <use xl:href="#path_6"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_6)">
+          <image xl:href="image7.tiff" width="300" height="322" transform="translate(576 694.5) scale(.2531056)"/>
+        </g>
+      </g>
+      <g id="Graphic_20">
+        <rect x="267.5" y="942" width="126.99875" height="102" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(272.5 983.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="17.003374" y="15">Docker hub</tspan>
+        </text>
+      </g>
+      <g id="Graphic_21">
+        <title>Docker</title>
+        <desc>Container Runtime</desc>
+        <rect x="299.99906" y="1061.5" width="62.000625" height="50" id="path_7"/>
+        <clipPath id="clip_path_7">
+          <use xl:href="#path_7"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_7)">
+          <image xl:href="image8.png" width="200" height="200" transform="matrix(.31000312 0 0 .25 299.99906 1061.5)"/>
+        </g>
+      </g>
+      <g id="Line_23">
+        <line x1="349.6379" y1="328.1378" x2="560.8621" y2="474.46994" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_22">
+        <rect x="569" y="464.8184" width="55" height="68.68159" id="path_8"/>
+        <clipPath id="clip_path_8">
+          <use xl:href="#path_8"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_8)">
+          <image xl:href="image9.tiff" width="201" height="251" transform="translate(569 464.8184) scale(.27363184)"/>
+        </g>
+      </g>
+      <g id="Line_27">
+        <line x1="542.5556" y1="332.91664" x2="582.30106" y2="455.40177" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_28">
+        <rect x="313.49875" y="492.6136" width="88" height="53.06802" id="path_9"/>
+        <clipPath id="clip_path_9">
+          <use xl:href="#path_9"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_9)">
+          <image xl:href="image10.tiff" width="985" height="594" transform="translate(313.49875 492.6136) scale(.0893401)"/>
+        </g>
+      </g>
+      <g id="Graphic_29">
+        <rect x="485.50125" y="937" width="126.99875" height="102" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+        <text transform="translate(490.50125 978.776)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="16" fill="black" x="42.355374" y="15">ECR</tspan>
+        </text>
+      </g>
+      <g id="Graphic_30">
+        <text transform="translate(570.945 549)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="1.39" y="10">ARGO-CD </tspan>
+        </text>
+      </g>
+      <g id="Graphic_31">
+        <text transform="translate(304.98 765)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="21671553e-20" y="10">JENKINS</tspan>
+        </text>
+      </g>
+      <g id="Line_32">
+        <line x1="326.45365" y1="792.1892" x2="324.54986" y2="932.1009" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+      <g id="Graphic_33">
+        <title>Amazon EC2 Container Registry</title>
+        <rect x="518.0003" y="1061.5" width="58.33" height="44" id="path_10"/>
+        <clipPath id="clip_path_10">
+          <use xl:href="#path_10"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_10)">
+          <image xl:href="image11.pdf" width="75" height="75" transform="matrix(.7777333 0 0 .5866667 518.0003 1061.5)"/>
+        </g>
+      </g>
+      <g id="Graphic_34">
+        <rect x="34" y="605" width="120.23036" height="68.68159" id="path_11"/>
+        <clipPath id="clip_path_11">
+          <use xl:href="#path_11"/>
+        </clipPath>
+        <g clip-path="url(#clip_path_11)">
+          <image xl:href="image12.tiff" width="800" height="457" transform="translate(34 605) scale(.15028795)"/>
+        </g>
+      </g>
+      <g id="Graphic_35">
+        <text transform="translate(318.49875 564.5)" fill="black">
+          <tspan font-family="Helvetica Neue" font-size="10" fill="black" x="0" y="10">K8S CLUSTER</tspan>
+        </text>
+      </g>
+      <g id="Line_36">
+        <line x1="633.9" y1="499.0884" x2="984.1306" y2="498.4252" marker-end="url(#FilledArrow_Marker)" marker-start="url(#FilledArrow_Marker_2)" stroke="black" stroke-linecap="round" stroke-linejoin="round" stroke-width="1"/>
+      </g>
+    </g>
+  </g>
+</svg>
